@@ -2,7 +2,7 @@
 
 <p align="center"><b>Know the moment any device on your network goes down.</b></p>
 
-<p align="center">A product by <a href="https://jagasec.com/#products">JagaSec Technologies</a></p>
+<p align="center">A product by <a href="https://jagasec.com/network-live-monitor">JagaSec Technologies</a></p>
 
 ---
 
